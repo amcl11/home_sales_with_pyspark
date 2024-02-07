@@ -1,4 +1,4 @@
-# Module 22 Challenge: 
+# Module 22: 
 
 ## `home_sales` w/ PySpark 
 
